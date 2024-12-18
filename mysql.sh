@@ -14,3 +14,4 @@ PRINT Setup MySQL Root Password
 mysql_secure_installation --set-root-pass RoboShop@1 &>>$LOG_FILE
 STAT $?
 
+
